@@ -1,1 +1,1 @@
-# hacktober
+tech 
